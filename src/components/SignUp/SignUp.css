@@ -1,0 +1,19 @@
+
+#signup .container #login-row #login-column #login-box {
+  margin-top: 50px;
+  max-width: 600px;
+  height:550px;
+  border: 1px solid #9C9C9C;
+  background-color: #EAEAEA;
+}
+#signup .container #login-row #login-column #login-box #login-form {
+  padding: 20px;
+}
+#signup .container #login-row #login-column #login-box #login-form #register-link {
+  margin-top: -85px;
+}
+#signup .container #login-row #login-column #login-box  .error{
+  color: #ec2929;
+  text-align: center;
+  font-weight: 400;
+}
